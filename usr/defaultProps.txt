@@ -1,0 +1,3 @@
+dbJNILoc=sqlite_jni.dll
+icon=fticon.jpg
+helpUrl=documentation/foodthingerhelp.html
